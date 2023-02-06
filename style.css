@@ -43,7 +43,11 @@ h3.description{
     font-style: italic;
     font-family: 'Rammetto One', cursive;
     font-size: x-large;
-    
+}
+
+.smthing h1{
+    font-family: 'Eater', cursive;
+    color: red;
 }
 
 .pupkin-details{
@@ -57,13 +61,30 @@ h3.description{
     color: red;
     background-color: white;
     font-family: 'Eater', cursive;
-    border: 10px red;
+    border: 2px solid red;
+    font-size: larger;
+}
+
+
+.pupkins-hammer{
+   text-align: center;
     
 }
 
-.pupkins-hammer{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.break{
+    
+    color: white;
+    font-family: 'Nosifer', cursive;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.book-info a{
+    color: white;
+    font-size: larger;
+}
+
+.book-info h3{
+    font-style: italic;
 }
