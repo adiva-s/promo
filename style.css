@@ -1,10 +1,7 @@
 body{
     font-family: 'Lato', sans-serif;
-    /*background-image: url(https://cdn.pixabay.com/photo/2022/11/03/12/38/haunted-house-7567396__340.jpg);*/
-    /*background-color: rgb(33, 46, 46);*/
-    
     background-color: black;
-    background-size: 100%;
+    background-size: cover;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -12,9 +9,10 @@ body{
 
 .title{
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     font-style: italic;
-    font-family: 'Rammetto One', cursive;
+    font-family: 'Nosifer', cursive;
+    color: goldenrod;
 }
 
 .info{
@@ -72,7 +70,6 @@ h3.description{
 }
 
 .break{
-    
     color: white;
     font-family: 'Nosifer', cursive;
     font-style: italic;
@@ -81,10 +78,14 @@ h3.description{
 }
 
 .book-info a{
-    color: white;
-    font-size: larger;
+    color: goldenrod;
+    font-size: x-large;
+    font-family: 'Rammetto One', cursive;
 }
 
 .book-info h3{
     font-style: italic;
+    font-family: 'Rammetto One', cursive;
+    font-size: xx-large;
+    color: wheat;
 }
